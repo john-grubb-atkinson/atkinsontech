@@ -7,7 +7,6 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-  <h1><%= @title %></h1>
 
 <%= yield %>
 
